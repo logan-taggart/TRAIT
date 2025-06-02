@@ -60,5 +60,5 @@ TRAIT/
 **Project:** Senior Capstone Project
 
 ---
-*TRAIT - Trademark Analysis and Identification Tool*
+*TRAIT - Trademark Analysis and Identification Tool*  
 *Updated June 1st, 2025*
